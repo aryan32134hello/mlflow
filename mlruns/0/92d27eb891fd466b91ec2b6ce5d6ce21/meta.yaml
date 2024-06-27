@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Opencv_projects/mlflow/mlruns/0/92d27eb891fd466b91ec2b6ce5d6ce21/artifacts
+end_time: 1719523302412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92d27eb891fd466b91ec2b6ce5d6ce21
+run_name: kindly-stoat-477
+run_uuid: 92d27eb891fd466b91ec2b6ce5d6ce21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719523296040
+status: 3
+tags: []
+user_id: Aryan Kumar

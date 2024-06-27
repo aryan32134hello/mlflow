@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Opencv_projects/mlflow/mlruns/0/e2c045838ef04114854a822a1ca3acf1/artifacts
+end_time: 1719523504390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2c045838ef04114854a822a1ca3acf1
+run_name: bemused-robin-57
+run_uuid: e2c045838ef04114854a822a1ca3acf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719523498421
+status: 3
+tags: []
+user_id: Aryan Kumar

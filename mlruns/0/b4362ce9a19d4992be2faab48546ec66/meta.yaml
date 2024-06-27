@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Opencv_projects/mlflow/mlruns/0/b4362ce9a19d4992be2faab48546ec66/artifacts
+end_time: 1719523031329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4362ce9a19d4992be2faab48546ec66
+run_name: thundering-loon-432
+run_uuid: b4362ce9a19d4992be2faab48546ec66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719523012446
+status: 3
+tags: []
+user_id: Aryan Kumar
